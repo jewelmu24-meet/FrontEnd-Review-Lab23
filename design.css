@@ -19,7 +19,15 @@ body{
 }
 
 #link{
-	font-size: 56px;
+	font-size: 60px;
 }
 
+ #btn{
+ 	font-size: 44px;
+ 	font-family: serif;
+ 	width: 300px;
+ 	color:#942828;
+
+
+ }
  
